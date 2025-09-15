@@ -48,3 +48,6 @@ class AutoResizeResolution:
 NODE_CLASS_MAPPINGS = {
     "AutoResizeResolution": AutoResizeResolution
 }
+NODE_DISPLAY_NAME_MAPPINGS = {
+    "AutoResizeResolution": "Auto Resize Resolutions",
+    }
